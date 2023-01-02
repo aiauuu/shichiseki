@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/shichiseki/shichiseki/main/profile-summary-card-output/solarized/4-productive-time.svg)
-```
-
-    
