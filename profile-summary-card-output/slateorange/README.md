@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/shichiseki/shichiseki/main/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
