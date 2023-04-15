@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shichiseki/shichiseki/main/profile-summary-card-output/blueberry/4-productive-time.svg)
+```
+
+    
